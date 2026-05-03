@@ -113,19 +113,6 @@ This project aims to:
 - Learn how to combine **tracking**, **mapping**, and **visualization** in a unified system.  
 - Strengthen Python and computer vision programming skills.  
 
----
-
-## Contributions  
-You can contribute by:  
-- Improving performance or accuracy of feature tracking and mapping.  
-- Adding dataset loaders or visualization tools.  
-- Refactoring code for readability or modularity.  
-- Submitting pull requests or issues via GitHub.  
-
----
-
-## License  
-This project is distributed under the **MIT License**. See the `LICENSE` file for details.
 
 ---
 
